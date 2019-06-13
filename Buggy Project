@@ -1,0 +1,6 @@
+BUGGY PROJECT
+To perform actions by a Robotic Car using ARDUINO coding
+the actions performed:
+1. Line Follower using IR sensors
+2. Use of ULtra Sonic sensors for obstacle detection 
+3. Usage of ZigBee module
